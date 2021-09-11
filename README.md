@@ -4,7 +4,7 @@
 
 ### Junior DevOps Consultant @SpartaGlobal
 
-I am a Computing Graduate at De Montford University - I decided to pursue DevOps practices as I have always had an great deal of interest in this field, primarily because its so broad. My Journey started with Sparta Global where I completed the 12 weeks training at Sparta Academy.    
+I am a Computing Graduate at De Montford University - I decided to pursue DevOps practices as I have always had an great deal of interest in this field.
 
 ####  **Thriving in DevOps and Cloud Computing**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
